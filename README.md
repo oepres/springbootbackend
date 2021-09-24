@@ -7,6 +7,7 @@ Import in Eclipse as existing maven project
 ## Compiling and running
 
 In Eclipse in Package Explorer:
+
 Right click on pom.xml
 Run As -> Maven clean,
 Run As -> Maven install
