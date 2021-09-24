@@ -8,7 +8,7 @@ Import in Eclipse as existing maven project
 
 In Eclipse in Package Explorer:
 Right click on pom.xml
-Run As -> Maven clean
+Run As -> Maven clean,
 Run As -> Maven install
 
 Right click on src/main/java/quickstart/Application.java
